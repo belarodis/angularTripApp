@@ -1,0 +1,24 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Restaurantes",
+      "descricao": "Lugares de boia boa! 🤰🏻"
+    },
+    {
+      "id": "0100",
+      "nome": "Praia",
+      "descricao": "Waaaa"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "b458",
+      "nome": "Lugaaaar",
+      "categoria": "Praia",
+      "localizacao": "Waa",
+      "urlFoto": "miau",
+      "avaliacao": "5"
+    }
+  ]
+}
