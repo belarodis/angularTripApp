@@ -33,7 +33,7 @@
       "categoria": "Restaurantes",
       "localizacao": "São Paulo - SP, Brasil",
       "urlFoto": "https://ofuxico.com.br/wp-content/uploads/2021/11/fogo-de-chao.jpg",
-      "avaliacao": "4.8"
+      "avaliacao": "4"
     },
     {
       "id": "l2",
@@ -41,7 +41,7 @@
       "categoria": "Restaurantes",
       "localizacao": "São Paulo - SP, Brasil",
       "urlFoto": "https://www.riotimesonline.com/wp-content/uploads/2021/11/Casa-do-Porco-1-1024x683.jpg",
-      "avaliacao": "4.7"
+      "avaliacao": "4"
     },
     {
       "id": "l3",
@@ -49,7 +49,7 @@
       "categoria": "Praias",
       "localizacao": "Rio de Janeiro - RJ, Brasil",
       "urlFoto": "https://media.gettyimages.com/id/846556314/pt/foto/copacabana-beach.webp?s=612x612&w=gi&k=20&c=xR5tl-pNCdtaW2lbKC4ZUx92XEBZaoIyey4S9bpVaq0=",
-      "avaliacao": "4.9"
+      "avaliacao": "5"
     },
     {
       "id": "l4",
@@ -57,7 +57,7 @@
       "categoria": "Praias",
       "localizacao": "Fernando de Noronha - PE, Brasil",
       "urlFoto": "https://media.gettyimages.com/id/498497509/pt/foto/praia-do-sancho-fernando-de-noronha.webp?s=612x612&w=gi&k=20&c=c2ulhw-M9478RsjU_Li8jFJG3ZDbi6NcqtBbuqrjlkQ=",
-      "avaliacao": "5.0"
+      "avaliacao": "5"
     },
     {
       "id": "l5",
@@ -65,7 +65,7 @@
       "categoria": "Tours",
       "localizacao": "São Paulo - SP, Brasil",
       "urlFoto": "https://media.istockphoto.com/id/1166728645/pt/foto/suspension-bridge-cable-stayed-bridge-in-the-world.jpg?s=612x612&w=0&k=20&c=_2bO5TdCKNzrSHgaofCvqpQRiwRtNtFOLdeI8WpsMBc=",
-      "avaliacao": "4.6"
+      "avaliacao": "4"
     },
     {
       "id": "l6",
@@ -73,7 +73,7 @@
       "categoria": "Tours",
       "localizacao": "Rio de Janeiro - RJ, Brasil",
       "urlFoto": "https://images.adsttc.com/media/images/65f3/77c8/1929/cf01/7c1f/779d/large_jpg/as-cores-da-favela-o-que-um-pouco-de-tinta-pode-fazer-pelas-comunidades_4.jpg?1710454762",
-      "avaliacao": "4.5"
+      "avaliacao": "1"
     },
     {
       "id": "l7",
@@ -81,7 +81,7 @@
       "categoria": "Museus",
       "localizacao": "Rio de Janeiro - RJ, Brasil",
       "urlFoto": "https://media.gettyimages.com/id/1250479508/pt/foto/modern-white-architecture-in-rio-de-janeiro-brazil.jpg?s=612x612&w=gi&k=20&c=63zWUux6LMAX5YViaTTmeGKAon5y4KBUgoc06CCkGc0=",
-      "avaliacao": "4.8"
+      "avaliacao": "4"
     },
     {
       "id": "l8",
@@ -89,7 +89,7 @@
       "categoria": "Museus",
       "localizacao": "São Paulo - SP, Brasil",
       "urlFoto": "https://media.gettyimages.com/id/916091532/pt/foto/masp-museum-in-sao-paulo.jpg?s=612x612&w=gi&k=20&c=itA42-ESjgnAm7fYEF46K9WuIPMTg0pKQL4599AF0T4=",
-      "avaliacao": "4.9"
+      "avaliacao": "4"
     },
     {
       "id": "l9",
@@ -97,7 +97,7 @@
       "categoria": "Parques",
       "localizacao": "São Paulo - SP, Brasil",
       "urlFoto": "https://media.gettyimages.com/id/108278601/pt/foto/lago-do-ibirapuera.webp?s=612x612&w=gi&k=20&c=Gc2HaT7ZDFIppXzVUM51wca46wWYOkJKl49NilWeAYQ=",
-      "avaliacao": "4.9"
+      "avaliacao": "4"
     },
     {
       "id": "l10",
@@ -105,7 +105,7 @@
       "categoria": "Parques",
       "localizacao": "Rio de Janeiro - RJ, Brasil",
       "urlFoto": "https://media.gettyimages.com/id/172737906/pt/foto/jardins-bot%C3%A2nico.webp?s=612x612&w=gi&k=20&c=MYQ323i-IX19rzXHW0FbO2iojxTRqbCAKIuHlhai2Ks=",
-      "avaliacao": "4.8"
+      "avaliacao": "4"
     }
   ]
 }

@@ -18,12 +18,16 @@ export class GaleriaComponent implements OnInit {
 
   ngOnInit(): void {
     this.categoriaService.obterTodos().subscribe({
-      next: categorias => (this.categoriasFiltro = categorias),
-      error: erro => console.error('Ocorreu um erro: ', erro)
+      next: (categorias) => (this.categoriasFiltro = categorias),
+      error: (erro) => console.error('Ocorreu um erro: ', erro),
     });
 
     this.lugarService.obterTodos().subscribe({
-      next: lugares =>(this.listaLugares = lugares)
-    })
+      next: (lugares) => (this.listaLugares = lugares),
+    });
+  }
+
+  getEstrelas(lugar: LugarClass): string {
+    return '&#9733;'.repeat(lugar.avaliacao || 0) + '&#9734;'.repeat(5 - (lugar.avaliacao || 0));
   }
 }
