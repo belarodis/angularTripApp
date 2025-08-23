@@ -14,7 +14,7 @@ export class CategoriaService {
     return this.http.post<Categoria>('http://localhost:3000/categorias', categoria);
   }
 
-  obterCategorias(): Observable<Categoria[]>{
+  obterTodos(): Observable<Categoria[]>{
     return this.http.get<Categoria[]>('http://localhost:3000/categorias')
   }
 }

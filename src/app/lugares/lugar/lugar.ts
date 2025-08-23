@@ -24,7 +24,7 @@ export class Lugar implements OnInit {
   }
 
   ngOnInit(): void {
-    this.categoriaService.obterCategorias().subscribe({
+    this.categoriaService.obterTodos().subscribe({
       next: (listaCategorias) => (this.categorias = listaCategorias),
     });
   }

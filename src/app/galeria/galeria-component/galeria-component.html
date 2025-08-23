@@ -1,0 +1,33 @@
+<!-- Filtros -->
+
+<div class="p-4 bg-white shadow">
+  <div class="flex flex-col md:flex-row items-center justify-center gap-4">
+    <input
+      type="text"
+      name=""
+      id=""
+      placeholder="Pesquisar nome do local"
+      class="w-full border border-gray-300 p-2 rounded shadow-sm focus:ring focus:ring-blue-400"
+    />
+    <select
+      name=""
+      id=""
+      class="w-full border border-gray-300 p-2 rounded shadow-sm focus:ring focus:ring-blue-400"
+    >
+      <option value="">Categorias</option>
+      @for (cat of categoriasFiltro; track cat.id) {
+      <option [value]="cat.nome">{{ cat.nome }}</option>
+      }
+    </select>
+  </div>
+</div>
+
+<!-- Listagem dos lugares -->
+
+<div id="lugaresLista" class="p-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+  @for (lug of listaLugares; track lug.nome) {
+  <div class="bg-white shadow rounded overflow-hidden">
+    <img [src]="lug.urlFoto" [alt]="lug.nome" class="w-full h-40 object-cover">
+  </div>
+  }
+</div>
